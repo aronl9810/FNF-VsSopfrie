@@ -1,2 +1,2 @@
-testmod|1
 template|0
+sopfrie|1
