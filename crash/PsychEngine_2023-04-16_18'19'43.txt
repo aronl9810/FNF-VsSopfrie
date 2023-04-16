@@ -1,0 +1,14 @@
+C:\HaxeToolkit\haxe\std/haxe/format/JsonParser.hx (line 318)
+C:\HaxeToolkit\haxe\std/haxe/format/JsonParser.hx (line 147)
+C:\HaxeToolkit\haxe\std/haxe/format/JsonParser.hx (line 57)
+Song.hx (line 140)
+editors/ChartingState.hx (line 439)
+flixel/ui/FlxButton.hx (line 521)
+flixel/ui/FlxButton.hx (line 507)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: Invalid char 0 at position 0
+Please report this error to the GitHub page: https://github.com/ShadowMario/FNF-PsychEngine
+
+> Crash Handler written by: sqirra-rng

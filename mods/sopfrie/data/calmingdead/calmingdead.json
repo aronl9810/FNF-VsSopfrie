@@ -5,7 +5,43 @@
 		"notes": [
 			{
 				"sectionBeats": 4,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						0,
+						4,
+						0
+					],
+					[
+						162.5,
+						5,
+						0
+					],
+					[
+						328.125,
+						4,
+						0
+					],
+					[
+						875,
+						6,
+						250
+					],
+					[
+						1253.125,
+						7,
+						250
+					],
+					[
+						875,
+						4,
+						250
+					],
+					[
+						1250,
+						5,
+						250
+					]
+				],
 				"typeOfSection": 0,
 				"gfSection": false,
 				"altAnim": false,
@@ -15,7 +51,48 @@
 			},
 			{
 				"sectionBeats": 4,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						2000,
+						6,
+						0
+					],
+					[
+						2121.875,
+						7,
+						0
+					],
+					[
+						2250,
+						6,
+						0
+					],
+					[
+						2371.875,
+						5,
+						0
+					],
+					[
+						2621.875,
+						4,
+						125
+					],
+					[
+						3125,
+						7,
+						0
+					],
+					[
+						3500,
+						6,
+						0
+					],
+					[
+						3750,
+						5,
+						0
+					]
+				],
 				"typeOfSection": 0,
 				"gfSection": false,
 				"altAnim": false,
@@ -25,7 +102,43 @@
 			},
 			{
 				"sectionBeats": 4,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						4000,
+						4,
+						0
+					],
+					[
+						4162.5,
+						5,
+						0
+					],
+					[
+						4328.125,
+						4,
+						0
+					],
+					[
+						4875,
+						6,
+						250
+					],
+					[
+						5253.125,
+						7,
+						250
+					],
+					[
+						4875,
+						4,
+						250
+					],
+					[
+						5250,
+						5,
+						250
+					]
+				],
 				"typeOfSection": 0,
 				"gfSection": false,
 				"altAnim": false,
@@ -35,7 +148,53 @@
 			},
 			{
 				"sectionBeats": 4,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						6000,
+						5,
+						0
+					],
+					[
+						6181.25,
+						6,
+						0
+					],
+					[
+						6334.375,
+						5,
+						0
+					],
+					[
+						6500,
+						7,
+						0
+					],
+					[
+						6709.375,
+						6,
+						125
+					],
+					[
+						7000,
+						4,
+						0
+					],
+					[
+						7187.5,
+						5,
+						0
+					],
+					[
+						7375,
+						6,
+						0
+					],
+					[
+						7625,
+						7,
+						0
+					]
+				],
 				"typeOfSection": 0,
 				"gfSection": false,
 				"altAnim": false,
@@ -1412,6 +1571,26 @@
 				"bpm": 120
 			},
 			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 120,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 120
+			},
+			{
 				"gfSection": false,
 				"altAnim": false,
 				"typeOfSection": 0,
@@ -1423,7 +1602,7 @@
 			}
 		],
 		"events": [],
-		"player2": "dad",
+		"player2": "sopfrie",
 		"splashSkin": "noteSplashes",
 		"song": "calmingdead",
 		"needsVoices": true,
