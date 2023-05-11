@@ -6,9 +6,11 @@
 function onCreate()
 	-- background
 	
-	makeLuaSprite('sopfriebackground', 'sopfriebackground', -650, -390);
+	makeLuaSprite('sopfriebackground', 'sopfriebackground', -650, -460);
 	setScrollFactor('sopfriebackground', 0.9, 0.9);
-	scaleObject('sopfriebackground', 1.2, 1.2);
+	scaleObject('sopfriebackground', 1.1, 1.1);
+
+
 	addLuaSprite('sopfriebackground', false);
 	
 	close(true); --For performance reasons, close this script once the stage is fully loaded, as this script won't be used anymore after loading the stage
