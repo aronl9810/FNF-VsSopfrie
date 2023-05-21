@@ -1,3 +1,5 @@
+-- Not my script! Credits who made the script which I will find eventually. https://drive.google.com/file/d/17ApHM3Y8y3-s8lENccuUTd6b6uRdYGOG/view 
+
 --Hello! This is your script, you may be confused but its really easy
 --First, you need to have your image ready, read the tutorial about the thing here:
 --Next, replace the word "Test", with the name of your image (capitalization matters).

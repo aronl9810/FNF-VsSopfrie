@@ -1,3 +1,5 @@
+-- New Song Introduction
+
 function onSongStart()
     if songName == "calmingdead" then
         makeLuaSprite("decal_calmingdead", "calmingdeaddecal",1300,2000)
@@ -12,3 +14,19 @@ function onUpdate(elapsed) -- Think of this like function draw() in P5JS
         doTweenX("decal_calmingdead", "decal_calmingdead",2000,1,linear)
     end
 end
+
+-- Old Song Introduction
+
+-- function onSongStart()
+--     if songName == "calmingdead" then
+--         makeLuaText("songintro","CalmingDead by TRGGB2", 400, 800, 600)
+--         setTextSize("songintro", 30)
+--         addLuaText("songintro")
+--     end
+-- end
+
+-- function onUpdate(elapsed) -- On FPS 
+--     if curStep == 30 then
+--         removeLuaText("songintro" , destroy == false)
+--     end
+-- end
